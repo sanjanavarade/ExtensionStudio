@@ -1,0 +1,8 @@
+{
+  "name": "ExtensionStudio - Professional Extension Builder",
+  "description": "A high-end design and development environment for building unique, privacy-first Chrome extensions, featuring a live simulator and ready-to-publish code generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
