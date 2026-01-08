@@ -69,15 +69,18 @@ Privacy-conscious users, remote workers, everyday internet users.
 
 
 ### 🏠 Builder App Home
-![Home Screen](<img width="939" height="413" alt="Screenshot 2026-01-08 225039" src="https://github.com/user-attachments/assets/338fcab5-e073-4c7a-8997-2312936960ba" />
+![Home Screen](<img width="939" height="413" alt="Screenshot 2026-01-08 225039" src="https://github.com/user-attachments/assets/e6eb3989-5c91-4218-a650-22bea4f3b3e9" />
+
 )
 
 ### 🧠 Tool Selection UI
-![Tool Selection](<img width="929" height="401" alt="Screenshot 2026-01-08 225116" src="https://github.com/user-attachments/assets/426bdde1-a46e-4b29-93fe-b5ab8f5f8906" />
+![Tool Selection](<img width="929" height="401" alt="Screenshot 2026-01-08 225116" src="https://github.com/user-attachments/assets/1808af34-977c-4aff-81bf-787867aaaff4" />
+
 )
 
 ### ✨ Extension in Action
-![Extension Working](<img width="934" height="401" alt="Screenshot 2026-01-08 225127" src="https://github.com/user-attachments/assets/ebf1958e-6122-43d3-b676-36f5b54e4961" />
+![Extension Working](<img width="934" height="401" alt="Screenshot 2026-01-08 225127" src="https://github.com/user-attachments/assets/a539610f-6097-4e4f-9ad5-267678572781" />
+
 )
 
 ---
